@@ -8,7 +8,7 @@ public Feld (boolean boese, char direction) {
 	this.direction=direction;
 }
 
-public boolean isBoeye() {
+public boolean isBoese() {
 	return this.boese;
 }
 
